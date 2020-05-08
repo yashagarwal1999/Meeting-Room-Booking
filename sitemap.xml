@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <?xml-stylesheet type="text/xsl" href="style_sitemap1.xsl"?>
+<sitemap>
+<heading>
+Meeting Room Sitemap
+</heading>
+<image>
+<source>logo.jpg</source>
+	</image>
+<navbar>
+<navigation link="login.php">Home</navigation>
+<navigation1 link="login.php">Login</navigation1>
+<navigation2 link="findpage.php">Locate A Room</navigation2>
+<navigation3 link="aboutus.xml">About Us</navigation3>
+
+</navbar>
+<row>
+<!-- <col1 link="help.html">Help</col1> -->
+<!-- <link1>help</link1> -->
+<col2 link="login.php">Login In</col2>
+<!-- <link2>login</link2> -->
+<col3 link="findpage.php">Find a Room</col3>
+<!-- <link3>login</link3> -->
+</row>
+<row>
+<col1 link="FAQ.php">FAQ's</col1>
+<!-- <link1>help</link1> -->
+<col2 link="register.html">SignUp</col2>
+<!-- <link2>register</link2> -->
+<!-- <col3 link="help.html">Privacy</col3> -->
+<!-- <link3>login</link3> -->
+</row>
+<row>
+<!-- <col1>FAQ's</col1> -->
+<col2 link="TnC.xml">Terms And Conditions</col2>
+<!-- <link2>login</link2> -->
+<!-- <col3>Privacy</col3> -->
+
+</row>
+</sitemap>

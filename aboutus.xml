@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="aboutus.xsl"?>
+<members>
+    <member>
+        <name>Sachin Johnson Chirayath</name>
+        <position>Backend Developer</position>
+        <desc>Passionate about services that ease day to day activities</desc>
+        <email>johnsonsachin95@gmail.com</email>
+        <file>sachin.jpeg</file>
+        <str>https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=johnsonsachin95@gmail.com</str>
+    </member>
+    <member>
+        <name>Yash Agarwal</name>
+        <position>Co-Founder</position>
+        <desc>Co-Founder of Meeting Room Booking services</desc>
+        <email>agarvalyash12@gmail.com</email>
+        <file>yash.jpg</file>
+         <str>https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=agarvalyash12@gmail.com</str>
+    </member>
+    <member>
+        <name>Harshit Malpani</name>
+        <position>Co-Founder</position>
+        <desc>Meeting room booking applications</desc>
+        <email>harshitmalpani@gmail.com</email>
+        <file>malpani.jpeg</file>
+         <str>https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=harshitmalpani@gmail.com</str>
+    </member>
+</members>
+

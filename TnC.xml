@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <?xml-stylesheet type="text/xsl" href="TnCstyle.xsl"?>
+<TnC>
+    <data>
+        <heading>
+            Privacy
+        </heading>
+        <description>
+            Please review our Privacy Policy, which also governs your visit to this Site and which is incorporated into the Terms and Conditions.
+        </description>
+    </data>
+
+    <data>
+        <heading>
+            Site Contents
+        </heading>
+        <description>
+            Any Group marks, logos and designs appearing on any of the Group Websites are the exclusive trademarks and service marks (either directly or indirectly) of Group. No license to or right in any such marks, logos and designs and other proprietary rights of the Group is granted to or conferred upon you.
+
+All other trademarks and service marks appearing on any of the Group Websites that are not owned by Group are the property of their respective owners.
+        </description>
+    </data>
+
+    <data>
+        <heading>
+            USE OF SITE; RESTRICTIONS
+        </heading>
+        <description>
+            This Site and its Contents may be used solely for your own personal, non-commercial use. Any other use of the Site or the Contents is strictly prohibited, including, without limitation, modification, removal, deletion, transmission, publication, distribution, proxy caching, uploading, posting, redistribution, re-licensing, selling, duplicating, republication or any other dissemination without the express written permission of Group or the owner. You may not use any framing techniques to enclose any trademarks or logos of Group nor use any meta tags or other hidden text without our prior written consent. You may not link to the Site without our prior written consent. Use of spiders, robots and similar data gathering and extraction tools is expressly prohibited.
+
+You may view and print a copy of the Contents displayed on the Site, and download a copy of any Contents that is designated for downloading, for your personal use only but you may not alter the Contents in any way, including, without limitation, removing or modifying any copyright or other ownership notices. The rights, title and interest in the Contents are not transferred to you by copying or downloading the material. The information provided on this Site is free of charge and for informational purposes only and does not create a business or professional services relationship between you and Group.
+        </description>
+    </data>
+
+    <data>
+        <heading>
+            ONLINE CONDUCT
+        </heading>
+        <description>
+            You agree to use the Site only for lawful purposes. You are prohibited from posting or transmitting to or through the Site any unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, profane, hateful material, or any other material that could give rise to civil or criminal liability under the law. We may disclose any content or electronic communication of any kind (including your profile, e-mail address and other information) (1) to satisfy any law, regulation, or government request; (2) if the disclosure is necessary or appropriate to operate the Site; or (3) to protect the rights or property of Group, its affiliates, and you.
+        </description>
+    </data>
+
+    <data>
+        <heading>
+            ACCURACY OF INFORMATION
+        </heading>
+        <description>
+            Group uses reasonable efforts to furnish accurate and up-to-date information, but we do not guarantee that any information contained in this Site is accurate, complete, reliable, current or error-free or that the Site will be free from viruses. We also are not responsible for any errors or omissions in this Site. Although we may modify the Contents, make improvements to the Site or correct any error or omission at any time and without notice to you, we are not obligated to do so. We will endeavour to update information in a timely manner but we will not be liable for any inaccuracies. Any use you make of the information provided on this Site is entirely at your own risk and Group will not be liable for any loss of data, lost profits or any other damages or losses resulting from your use of this Site.
+        </description>
+    </data>
+
+</TnC>

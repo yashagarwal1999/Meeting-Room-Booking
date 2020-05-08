@@ -1,0 +1,194 @@
+body{
+    margin: 0;
+    padding: 0;
+    /*background-image:url(login_bg.jpg);/*: url(login_bg.jpg);*/
+    background-size: cover;
+/*	background-size: 100%;*/
+    background-position: top;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+}
+
+.CANCELBUTTON {
+  background-color:rgb(255, 0, 0);
+  border-radius:10px;
+  height:45px;
+  width:80px;
+border:none;
+color:white
+}
+.CANCELBUTTON:hover{
+  background-color:rgb(5, 0, 1);
+
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+	width:100%;
+	height:133px;
+	top:0;
+}
+
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: #f2f2f2;
+  text-align: center;
+/*  padding: 14px 16px;*/
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-decoration: none;
+	font-weight:bold;
+}
+
+
+
+
+.dropdown {
+  float: right;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 20px;  
+  border: none;
+  outline: none;
+  color: #f2f2f2;
+  padding: 14px 16px;
+  background-color: #ff0000;
+  font-family: inherit;
+	font-weight:bold;
+  margin: 0;
+}
+
+.navbar a:hover{	/*, .dropdown:hover .dropbtn {*/
+ 	background: #222;
+  color: #fff;
+}
+
+.navbar .dropdown:hover .dropbtn {
+ 	background: #c10000;
+  color: #fff;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.main{
+	/*padding-top:130px;*/
+	border:solid;
+	height:100%/*854px*/;
+}
+
+.bookings{
+	background-color: #fff;
+}
+
+.bookings .book_btn {
+  font-size: 20px;  
+  border: none;
+  outline: none;
+  color: #fff;
+  padding: 0px 0px;
+	
+  background-color: #444;
+  font-family: inherit;
+	font-weight:bold;
+  margin: 0;
+	width: 49%;
+	margin-top:.3%;
+	margin-left:.5%;
+	
+}
+
+.bookings .book_btn:hover {
+	background-color:#000;
+}
+
+
+/*navbar
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0px; 
+  width: 100%;
+  height: 130px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.data{
+	margin-top:130px;
+	border:solid;
+	height:860px;
+}
+
+.navbar a:hover {
+  background: #222;
+  color: #fff;
+}
+
+*/
+
+
+.foot {
+	overflow: hidden;
+	background-color: #333;
+	top: 990px;/*100%;*/
+	height: 50px;
+	width: 100%;
+	position: absolute;
+}
+
+.foot a{
+	float: left;
+	color: #f2f2f2;
+	font-size: 15px;
+	padding-top: 17px;
+	text-decoration: none;
+}
+
+.foot a:hover{
+	text-decoration:underline;
+	color: #fff;
+}
